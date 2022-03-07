@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋, this is Xianzhao Duan.
+You can call me Paul if you like. I am a Computer Science freshman at McMaster University, and I am looking for a summer co-op job right now!
+- 🔭 I’m currently working on [Music Training🎵](https://paulduangithub.github.io/read-music-staff/).
+- 🌱 I’m currently learning C, React and Boostrap.
+- 📫 How to reach me: [Email](mailto:duanxianzhao@gmail.com).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulduangithub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Xianzhao Duan's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulduangithub&show_icons=true&theme=dark)
 <!--
 **PaulDuanGitHub/PaulDuanGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
