@@ -1,7 +1,7 @@
 ### Hi there 👋, this is Xianzhao Duan.
-You can call me Paul if you like. I am a Computer Science freshman at McMaster University, and I am looking for a summer co-op job right now!
+Paul is my English name. I am a Computer Science sophomore at McMaster University!
 - 🔭 I’m currently working on [Music Training🎵](https://paulduangithub.github.io/read-music-staff/).
-- 🌱 I’m currently learning C, React and Boostrap.
+- 🌱 I’m currently working on [Round Table](https://github.com/PaulDuanGitHub/round-table)
 - 📫 How to reach me: [Email](mailto:duanxianzhao@gmail.com).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulduangithub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
