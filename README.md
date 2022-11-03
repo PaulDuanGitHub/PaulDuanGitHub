@@ -1,6 +1,5 @@
 ### Hi there 👋, this is Xianzhao Duan.
 Paul is my English name. I am a Computer Science sophomore at McMaster University!
-- 🔭 I’m currently working on [Music Training🎵](https://paulduangithub.github.io/read-music-staff/).
 - 🌱 I’m currently working on [Round Table](https://github.com/PaulDuanGitHub/round-table)
 - 📫 How to reach me: [Email](mailto:duanxianzhao@gmail.com).
 
