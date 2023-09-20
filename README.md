@@ -1,6 +1,5 @@
-### Hi there 👋, this is Xianzhao Duan.
-Paul is my English name. I am a Computer Science sophomore at McMaster University!
-- 🌱 I’m currently working on [Round Table](https://github.com/PaulDuanGitHub/round-table)
+### Hi there 👋, this is Xianzhao(Paul) Duan.
+I am a Computer Science 3rd year student at McMaster University!
 - 📫 How to reach me: [Email](mailto:duanxianzhao@gmail.com).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulduangithub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
