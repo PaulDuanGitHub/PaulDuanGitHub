@@ -1,5 +1,5 @@
 ### Hi there 👋, this is Xianzhao(Paul) Duan.
-I am a Computer Science 3rd year student at McMaster University!
+I am a Computer Science final year student at McMaster University!
 - 📫 How to reach me: [Email](mailto:duanxianzhao@gmail.com).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulduangithub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
